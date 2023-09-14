@@ -1,27 +1,9 @@
-# template
-
+# Yolov3 Flask API
+![Screenshot](assets/screenshot.png)
 ```
-python -m venv .venv
-source .venv/bin/activate
-```
-
-```
-make install
+make setup
 ```
 
 ```
-git add .
-git commit -m "Initial Commit"
-git push
-```
-
-```
-nano ~/.bashrc
-source .venv/bin/activate
-
-```
-
-```
-chmod +x main.py
-./main.py
+make run
 ```
