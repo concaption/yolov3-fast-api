@@ -1,4 +1,4 @@
-# Yolov3 Flask API
+# YOLOv3 Flask API
 ![Screenshot](assets/screenshot.png)
 
 Open in GitHub codespace and run
